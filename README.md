@@ -2,7 +2,7 @@
 
 Pre-requirement: Python3
 
-**Step 1**. git clone https://github.com/baidu-research/DeepFlow.git 
+**Step 1**. git clone https://github.com/NanoMembers/DeepFlow.git
 
 **Step 2**. cd DeepFlow
 
